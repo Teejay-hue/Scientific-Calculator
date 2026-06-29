@@ -21,7 +21,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:text="Teejay Calculator"
+            android:text="LuxMundi Calculator"
             android:textSize="24sp"
             android:textStyle="bold"
             android:textColor="#FFA500"
@@ -30,14 +30,14 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Name: Alaka Oluwademilade Wisdom"
+            android:text="Name: Daramola Oluwasemiloore Victor"
             android:textSize="18sp"
             android:textColor="#FFFFFF" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Matric Number: CSC/2025/104"
+            android:text="Matric Number: CSC/2025/166"
             android:textSize="18sp"
             android:textColor="#FFFFFF" />
 
